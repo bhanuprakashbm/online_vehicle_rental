@@ -62,20 +62,22 @@
       <div class="col-lg-4 mb-4">
         <h3>Contact Details</h3>
         <p>
-          90125 
-          <br>402 Webster Street
-          <br>
+          <i class="fas fa-map-marker-alt"></i> #123, 2nd Floor, MG Road
+          <br>Shivaji Nagar
+          <br>Bangalore - 560001
+          <br>Karnataka, India
         </p>
         <p>
-          <abbr title="Phone">P</abbr>: (000) 011-1100
+          <i class="fas fa-phone"></i> <a href="tel:+919876543210">+91 98765 43210</a>
+          <br><i class="fas fa-phone"></i> <a href="tel:08023456789">080-2345 6789</a>
         </p>
         <p>
-          <abbr title="Email">E</abbr>:
-          <a href="mailto:mail@tms.com">mail@transportmsphp.com
-          </a>
+          <i class="fas fa-envelope"></i> <a href="mailto:info@vehiclebooking.com">info@vehiclebooking.com</a>
+          <br><i class="fas fa-globe"></i> <a href="https://www.vehiclebooking.com" target="_blank">www.vehiclebooking.com</a>
         </p>
         <p>
-          <abbr title="Hours">H</abbr>: Monday - Friday: 9:00 AM to 5:00 PM
+          <i class="far fa-clock"></i> Monday - Saturday: 9:00 AM to 9:00 PM
+          <br><i class="far fa-clock"></i> Sunday: 10:00 AM to 6:00 PM
         </p>
       </div>
     </div>

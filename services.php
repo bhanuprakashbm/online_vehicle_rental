@@ -23,7 +23,7 @@
     </ol>
 
     <!-- Image Header -->
-    <img class="img-fluid rounded mb-4" src="vendor/img/placeholder.png" alt="">
+    <img class="img-fluid rounded mb-4" src="vendor/img/volkswagen-passat-500.jpg" alt="Our Services">
 
     <!-- Marketing Icons Section -->
     <div class="row">

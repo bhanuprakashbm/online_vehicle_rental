@@ -38,7 +38,11 @@ CREATE TABLE `tms_admin` (
 --
 
 INSERT INTO `tms_admin` (`a_id`, `a_name`, `a_email`, `a_pwd`) VALUES
+<<<<<<< HEAD
 (1, 'System Admin', 'admin@mail.com', 'codeastro.com');
+=======
+(1, 'System Admin', 'admin@gmail.com', 'admin@123');
+>>>>>>> bd9c6f2 (ver 1.2)
 
 -- --------------------------------------------------------
 
@@ -78,7 +82,11 @@ CREATE TABLE `tms_pwd_resets` (
 --
 
 INSERT INTO `tms_pwd_resets` (`r_id`, `r_email`) VALUES
+<<<<<<< HEAD
 (2, 'admin@mail.com');
+=======
+(2, 'admin@gmail.com');
+>>>>>>> bd9c6f2 (ver 1.2)
 
 -- --------------------------------------------------------
 
