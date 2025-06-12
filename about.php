@@ -25,7 +25,7 @@
     <!-- Intro Content -->
     <div class="row">
       <div class="col-lg-6">
-        <img class="img-fluid rounded mb-4" src="vendor/img/buscch.jpg" alt="Our Fleet">
+        <img class="img-fluid rounded mb-4" src="vendor/img/buscch.jpg" alt="About Us">
       </div>
       <div class="col-lg-6">
         <h2>About Us</h2>

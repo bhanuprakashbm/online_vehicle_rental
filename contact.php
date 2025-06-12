@@ -62,22 +62,24 @@
       <div class="col-lg-4 mb-4">
         <h3>Contact Details</h3>
         <p>
-          <i class="fas fa-map-marker-alt"></i> #123, 2nd Floor, MG Road
-          <br>Shivaji Nagar
-          <br>Bangalore - 560001
-          <br>Karnataka, India
+          #123, 2nd Floor<br>
+          MG Road<br>
+          Bengaluru - 560001<br>
+          Karnataka, India
         </p>
         <p>
-          <i class="fas fa-phone"></i> <a href="tel:+919876543210">+91 98765 43210</a>
-          <br><i class="fas fa-phone"></i> <a href="tel:08023456789">080-2345 6789</a>
+          <abbr title="Phone">P</abbr>: +91 80 1234 5678
         </p>
         <p>
-          <i class="fas fa-envelope"></i> <a href="mailto:info@vehiclebooking.com">info@vehiclebooking.com</a>
-          <br><i class="fas fa-globe"></i> <a href="https://www.vehiclebooking.com" target="_blank">www.vehiclebooking.com</a>
+          <abbr title="Mobile">M</abbr>: +91 98765 43210
         </p>
         <p>
-          <i class="far fa-clock"></i> Monday - Saturday: 9:00 AM to 9:00 PM
-          <br><i class="far fa-clock"></i> Sunday: 10:00 AM to 6:00 PM
+          <abbr title="Email">E</abbr>:
+          <a href="mailto:info@vehiclebooking.com">info@vehiclebooking.com</a>
+        </p>
+        <p>
+          <abbr title="Hours">H</abbr>: Monday - Saturday: 9:00 AM to 6:00 PM<br>
+          <small>Closed on Sundays and Public Holidays</small>
         </p>
       </div>
     </div>

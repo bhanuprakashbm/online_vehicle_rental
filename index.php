@@ -24,17 +24,10 @@
         <div class="carousel-item active" style="background-image: url('vendor/img/2019_honda_accord_angularfront.jpg')">
         </div>
         <!-- Slide Two - Set the background image for this slide in the line below -->
-<<<<<<< HEAD
-        <div class="carousel-item" style="background-image: url('vendor/img/placeholder.png')">
-        </div>
-        <!-- Slide Three - Set the background image for this slide in the line below -->
-        <div class="carousel-item" style="background-image: url('vendor/img/placeholder.png')">
-=======
         <div class="carousel-item" style="background-image: url('vendor/img/Nissan_Rogue_SV_2021.jpg')">
         </div>
         <!-- Slide Three - Set the background image for this slide in the line below -->
         <div class="carousel-item" style="background-image: url('vendor/img/Subaru_Legacy_Premium_2022_2.jpg')">
->>>>>>> bd9c6f2 (ver 1.2)
         </div>
 
         </div>
@@ -86,25 +79,17 @@
     <div class="row">
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-<<<<<<< HEAD
-          <a href="#"><img class="card-img-top" src="vendor/img/placeholder-1.png" alt=""></a>
-=======
           <a href="#"><img class="card-img-top" src="vendor/img/2019_honda_accord_angularfront.jpg" alt="Honda Accord"></a>
->>>>>>> bd9c6f2 (ver 1.2)
         </div>
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="vendor/img/Nissan_Rogue_SV_2021.jpg" alt="Nissan Rogue"></a>
+          <a href="#"><img class="card-img-top" src="vendor/img/Nissan_Rogue_SV_2021.jpg" alt="Nissan Rogue SV 2021"></a>
         </div>
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-<<<<<<< HEAD
-          <a href="#"><img class="card-img-top" src="vendor/img/placeholder-1.png" alt=""></a>
-=======
-          <a href="#"><img class="card-img-top" src="vendor/img/Subaru_Legacy_Premium_2022_2.jpg" alt="Subaru Legacy"></a>
->>>>>>> bd9c6f2 (ver 1.2)
+          <a href="#"><img class="card-img-top" src="vendor/img/Subaru_Legacy_Premium_2022_2.jpg" alt="Subaru Legacy Premium 2022"></a>
         </div>
       </div>
       
